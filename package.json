@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-=======
-    "test": "echo \"Error: no test specified\" && exit 1",
->>>>>>> 4a81fdf3739e053f1926adb17e44ff801686fdda
-    "start": "node index.js"
+
   },
   "repository": {
     "type": "git",
